@@ -11,9 +11,9 @@ Codes for Stack
 2. [Linked List Implementation](https://github.com/jp4950/DSA-Programs/tree/main/Stack/Linked%20List)
 
 Codes for Queue
-1. [Array based Implementation](https://github.com/jp4950/DSA-Programs/tree/main/Queue/Array)
+1. [Array based Implementation](https://github.com/jp4950/DSA-Programs/tree/main/Queue/Array%20Based)
 2. [Linked List Implementation](https://github.com/jp4950/DSA-Programs/tree/main/Queue/Linked%20List)
 
 Application of Stack
-1. [Tower of Hanoi](https://github.com/jp4950/DSA-Programs/tree/main/Tower%20of%20Hanoi)
+1. [Tower of Hanoi](https://github.com/jp4950/DSA-Programs/tree/main/Applications%20of%20Stack/Tower%20of%20Hanoi)
 2. Infix to Postfix (Yet to be finished)
