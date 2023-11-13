@@ -16,4 +16,9 @@ Codes for Queue
 
 Application of Stack
 1. [Tower of Hanoi](https://github.com/jp4950/DSA-Programs/tree/main/Applications%20of%20Stack/Tower%20of%20Hanoi)
-2. Infix to Postfix (Yet to be finished)
+2. [Infix to Postfix](https://github.com/jp4950/DSA-Programs/tree/main/Applications%20of%20Stack/Infix%20to%20Postfix)
+
+Implementation of Data Structures
+1. [General Trees](https://github.com/jp4950/DSA-Programs/blob/main/Implementation%20of%20Data%20Structures/GeneralTrees.c)
+2. [Binary Trees](https://github.com/jp4950/DSA-Programs/blob/main/Implementation%20of%20Data%20Structures/BinaryTrees.c)
+3. [Graph](https://github.com/jp4950/DSA-Programs/blob/main/Implementation%20of%20Data%20Structures/Graph.cpp)
